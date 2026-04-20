@@ -1,4 +1,4 @@
-# ecommerce-dashboard
+# E-commerce-dashboard
 E-Commerce Business Intelligence Dashboard
  Here's what's inside:
 7 fully interactive charts (all Chrome-native):
